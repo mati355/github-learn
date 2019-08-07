@@ -1,4 +1,11 @@
 body
 {
-    background: #606060;
+    background: #00acee;
+}
+.logo
+{
+    position: absolute;
+    right:50%;
+    top:50%;
+    
 }
